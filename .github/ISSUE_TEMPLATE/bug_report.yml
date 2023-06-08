@@ -32,4 +32,4 @@ body:
       
   - type: paragraph
     content: >
-      "If you have log files to share, you can upload them to [Crashy](https://crashy.net/). Please enter the generated link in the field above."
+      If you have log files to share, you can upload them to [Crashy](https://crashy.net/). Please enter the generated link in the field above.
