@@ -5,21 +5,12 @@ assignees:
   - TheButterbrotMan
 labels: ["Bug"]
 body:
-  - type: input
-    id: bug_title
-    attributes:
-      label: Bug Title
-      description: Please provide a concise title for the bug report.
-      placeholder: Form submission leads to 'Fatal Error' application crash
-    validations:
-      required: true
-
   - type: textarea
     id: what_happened
     attributes:
       label: What Happened?
       description: Please provide a detailed description of the issue you encountered.
-      placeholder: "When attempting to submit the form, the application crashes consistently, displaying a 'Fatal Error' message. This occurs regardless of the entered data or any specific actions taken prior to clicking the 'Submit' button."
+      placeholder: Example: When attempting to submit the form, the application crashes consistently, displaying a 'Fatal Error' message. This occurs regardless of the entered data or any specific actions taken prior to clicking the 'Submit' button.
     validations:
       required: true
 
