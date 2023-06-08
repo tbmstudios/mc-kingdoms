@@ -14,7 +14,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: version
     attributes:
       label: Version
@@ -30,7 +30,7 @@ body:
       description: "Please paste the latest log below."
       placeholder: "https://crashy.net/db016a7f-90bd-4023-8e79-e66c9285cb2f"
       
-  - type: input
+  - type: textarea
     id: crash_log
     attributes:
       label: Crash Log
