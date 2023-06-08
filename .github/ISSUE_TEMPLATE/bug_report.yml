@@ -27,5 +27,5 @@ body:
     id: log
     attributes:
       label: Log Files
-      description: If available, please provide any relevant log files. You can upload log files to Crashy.net and provide the link here: [Crashy Upload](https://crashy.net/)
+      description: If available, please provide any relevant log files.
       placeholder: Enter the link to the log files.
