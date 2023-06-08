@@ -16,7 +16,7 @@ body:
     attributes:
       label: Version
       description: Which version are you using?
-      placeholder: Enter the software version number.
+      placeholder: Enter the version number.
     validations:
       required: true
 
