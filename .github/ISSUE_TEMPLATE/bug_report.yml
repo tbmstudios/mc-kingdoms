@@ -1,6 +1,6 @@
 name: Bug Report
-description: Create a report to help us improve
-title: '[Bug]: '
+description: Create a bug report
+title: '[Bug Report]: '
 assignees:
   - TheButterbrotMan
 labels: ["Bug"]
@@ -8,9 +8,9 @@ body:
   - type: textarea
     id: what_happened
     attributes:
-      label: What happened?
-      description: Please describe the issue you encountered in detail.
-      placeholder: Explain the problem you encountered.
+      label: What Happened?
+      description: Please provide a detailed description of the issue you encountered.
+      placeholder: Describe the problem you encountered.
     validations:
       required: true
 
@@ -18,7 +18,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: Which version are you using?
+      description: Which version are you currently using?
       placeholder: Enter the version number.
     validations:
       required: true
@@ -26,6 +26,6 @@ body:
   - type: textarea
     id: log
     attributes:
-      label: Log files
-      description: If available, provide any relevant log files.
-      placeholder: You can upload log files (e.g. Bytebin) and provide the link here.
+      label: Log Files
+      description: If available, please provide any relevant log files.
+      placeholder: You can upload log files (e.g., [Crashy](https://crashy.net/)) and provide the link here.
