@@ -3,8 +3,7 @@ description: Suggest an idea for this project
 title: '[Feature]: '
 assignees:
   - TheButterbrotMan
-  labels:
-  - Feature Request
+labels: ["feature request"]
 body:
   - type: textarea
     attributes:
