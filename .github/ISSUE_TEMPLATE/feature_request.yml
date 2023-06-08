@@ -3,7 +3,7 @@ description: Create a feature request
 title: '[Feature Request]: '
 assignees:
   - TheButterbrotMan
-labels: ["Feature Request"]
+labels: ["Feature"]
 body:
   - type: textarea
     attributes:
