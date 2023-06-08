@@ -1,11 +1,1 @@
-name: Question
-description: Ask a question about the modpack
-title: '[Question]: '
-body:
-  - type: textarea
-    attributes:
-      label: Your Question
-      description: Ask your question in detail.
-      placeholder: Enter your question here.
-    validations:
-      required: true
+Please click [here](https://example.com) to open the issue on the external site.
