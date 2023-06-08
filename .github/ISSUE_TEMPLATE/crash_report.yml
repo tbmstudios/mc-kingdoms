@@ -27,8 +27,7 @@ body:
     id: latest_log
     attributes:
       label: Latest Log
-      description: "Please paste the latest log below, between backticks."
-      placeholder: "``"
+      description: "Please paste the latest log below, formatted as code."
     validations:
       required: true
       
@@ -36,5 +35,4 @@ body:
     id: crash_log
     attributes:
       label: Crash Log
-      description: "If available, please paste the crash log below, between backticks."
-      placeholder: "``"
+      description: "If available, please paste the crash log below, formatted as code."
