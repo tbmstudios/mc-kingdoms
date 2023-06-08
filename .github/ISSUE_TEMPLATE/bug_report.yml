@@ -27,7 +27,6 @@ body:
     id: latest_log
     attributes:
       label: Latest Log
-      description: "Please paste the latest log below, between backticks."
-      placeholder: "``"
+      description: "Please paste the latest log below, formatted as code."
     validations:
       required: true
