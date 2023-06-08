@@ -1,9 +1,9 @@
-name: Crash Report
-description: Create a crash report
+name: Bug Report
+description: Create a bug report
 title: "[Crash Report]: "
 assignees:
   - TheButterbrotMan
-labels: ["Crash"]
+labels: ["Bug"]
 body:
   - type: textarea
     id: what_happened
@@ -22,10 +22,17 @@ body:
       placeholder: "2.1.0"
     validations:
       required: true
-
+  
   - type: input
-    id: log
+    id: latest_log
     attributes:
-      label: Crash Log File
-      description: "If available, please upload the crash log file to [Crashy](https://crashy.net/) and provide the link here."
+      label: Latest Log
+      description: "Please paste the latest log below."
+      placeholder: "https://crashy.net/db016a7f-90bd-4023-8e79-e66c9285cb2f"
+      
+  - type: input
+    id: crash_log
+    attributes:
+      label: Crash Log
+      description: "Please paste the crash log below."
       placeholder: "https://crashy.net/db016a7f-90bd-4023-8e79-e66c9285cb2f"
