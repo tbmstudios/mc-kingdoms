@@ -3,6 +3,7 @@ description: Create a report to help us improve
 title: '[Bug]: '
 assignees:
   - TheButterbrotMan
+labels: ["Bug"]
 body:
   - type: textarea
     id: what_happened
