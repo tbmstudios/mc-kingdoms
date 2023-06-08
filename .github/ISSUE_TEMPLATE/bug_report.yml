@@ -10,7 +10,7 @@ body:
     attributes:
       label: What Happened?
       description: Please provide a detailed description of the issue you encountered.
-      placeholder: Example: When attempting to submit the form, the application crashes consistently, displaying a 'Fatal Error' message. This occurs regardless of the entered data or any specific actions taken prior to clicking the 'Submit' button.
+      placeholder: "When attempting to submit the form, the application crashes consistently, displaying a 'Fatal Error' message. This occurs regardless of the entered data or any specific actions taken prior to clicking the 'Submit' button."
     validations:
       required: true
 
