@@ -1,9 +1,9 @@
-name: Bug Report
-description: Create a bug report
-title: "[Bug Report]: "
+name: Crash Report
+description: Create a crash report
+title: "[Crash Report]: "
 assignees:
   - TheButterbrotMan
-labels: ["Bug"]
+labels: ["Crash"]
 body:
   - type: textarea
     id: what_happened
