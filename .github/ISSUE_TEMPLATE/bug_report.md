@@ -1,4 +1,4 @@
-name: Bug Report
+name: Bug report
 description: Create a report to help us improve
 title: '[Bug]: '
 body:
@@ -6,23 +6,22 @@ body:
     id: what_happened
     attributes:
       label: What happened?
-      description: Please describe the issue you encountered in detail.
-      placeholder: Explain the problem you encountered.
+      description: Also tell us, what did you expect to happen?
     validations:
       required: true
-
   - type: input
     id: version
     attributes:
       label: Version
       description: Which version are you using?
-      placeholder: Enter the software version number.
+      placeholder: 0.0.0
     validations:
       required: true
-
   - type: textarea
     id: log
     attributes:
-      label: Log files
-      description: If available, provide any relevant log files.
-      placeholder: You can upload log files (e.g. Bytebin) and provide the link here.
+      label: Provide the log
+      description: Please provide us with the crash-report.log and latest.log here.
+      placeholder: >-
+        You can upload it (e.g. Bytebin) and post the link
+        here.
