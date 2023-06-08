@@ -26,6 +26,6 @@ body:
   - type: input
     id: log
     attributes:
-      label: Log Files
-      description: "If available, please upload the log files to [Crashy](https://crashy.net/) and provide the link here."
+      label: Crash Log File
+      description: "If available, please upload the crash log file to [Crashy](https://crashy.net/) and provide the link here."
       placeholder: "https://crashy.net/db016a7f-90bd-4023-8e79-e66c9285cb2f"
