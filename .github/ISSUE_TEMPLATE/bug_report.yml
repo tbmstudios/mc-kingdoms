@@ -1,6 +1,8 @@
 name: Bug Report
 description: Create a report to help us improve
 title: '[Bug]: '
+assignees:
+  - TheButterbrotMan
 body:
   - type: textarea
     id: what_happened
