@@ -1,21 +1,16 @@
-name: Crash Report
-description: Create a crash report
-title: "[Crash Report]: "
+name: Bug Report
+description: Create a bug report
+title: "[Bug Report]: "
 assignees:
   - TheButterbrotMan
-labels: ["Crash"]
+labels: ["Bug"]
 body:
   - type: textarea
     id: what_happened
     attributes:
       label: What Happened?
       description: Please provide a detailed description of the issue you encountered.
-      placeholder: "When submitting the form without entering any data, the form validation error message does not appear. The form should display an error message prompting the user to fill in the required fields.
-
-Steps to Reproduce:
-1. Open the form.
-2. Leave all the fields blank.
-3. Click on the "Submit" button."
+      placeholder: "The form does not display the required validation error message when submitting it without entering any data."
     validations:
       required: true
 
