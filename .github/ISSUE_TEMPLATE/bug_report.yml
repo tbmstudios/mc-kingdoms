@@ -10,7 +10,7 @@ body:
     attributes:
       label: What Happened?
       description: Please provide a detailed description of the issue you encountered.
-      placeholder: Describe the problem you encountered.
+      placeholder: "When attempting to submit the form, the application crashes consistently, displaying a 'Fatal Error' message. This occurs regardless of the entered data or any specific actions taken prior to clicking the 'Submit' button."
     validations:
       required: true
 
@@ -19,7 +19,7 @@ body:
     attributes:
       label: Version
       description: Which version are you currently using?
-      placeholder: Enter the version number.
+      placeholder: "2.1.0"
     validations:
       required: true
 
@@ -28,4 +28,4 @@ body:
     attributes:
       label: Log Files
       description: "If available, please upload the log files to [Crashy](https://crashy.net/) and provide the link here."
-      placeholder: Enter the link to the log files.
+      placeholder: "https://crashy.net/db016a7f-90bd-4023-8e79-e66c9285cb2f"
