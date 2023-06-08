@@ -28,7 +28,7 @@ body:
     attributes:
       label: Latest Log
       description: "Please paste the latest log below, between the backticks."
-      value: "''"
+      value: "``"
     validations:
       required: true
       
@@ -37,4 +37,4 @@ body:
     attributes:
       label: Crash Log
       description: "Please paste the crash log below, between the backticks."
-      value: "''"
+      value: "``"
