@@ -28,7 +28,7 @@ body:
     attributes:
       label: Latest Log
       description: "Please paste the latest log below."
-      placeholder: "https://crashy.net/db016a7f-90bd-4023-8e79-e66c9285cb2f"
+      value: ''
     validations:
       required: true
       file: false
@@ -38,6 +38,6 @@ body:
     attributes:
       label: Crash Log
       description: "Please paste the crash log below."
-      placeholder: "https://crashy.net/db016a7f-90bd-4023-8e79-e66c9285cb2f"
+      value: ''
     validations:
       file: false
