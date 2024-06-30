@@ -1,3 +1,4 @@
-# MC-Kingdoms![Discord](https://img.shields.io/discord/:serverId)
-![Discord](https://img.shields.io/discord/:serverId)
-![Discord](https://img.shields.io/discord/:serverId)
+# MC-Kingdoms
+
+![Discord](https://img.shields.io/discord/920716981303377952?style=for-the-badge&logo=discord&logoColor=CEEAFC&labelColor=0C124C&color=95BD20&link=https%3A%2F%2Fdiscord.gg%2FJyURxyJFxZ)
+
