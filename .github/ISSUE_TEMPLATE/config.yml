@@ -1,4 +1,5 @@
+blank_issues_enabled: false
 contact_links:
-  - name: Question
-    url: https://discord.gg/FvSnRjdMEN
-    about: Ask a question
+  - name: Have a question? Need help? Want to chat?
+    url: https://discord.gg/JyURxyJFxZ
+    about: Join our Discord server for community support, discussions, and the latest updates!
