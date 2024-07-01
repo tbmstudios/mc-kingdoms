@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Our%20projects-96DC5F?labelColor=95BD20&style=for-the-badge&logo=curseforge&color=A6DBF8" alt="Our projects">
 </p>
-
+<div style="text-align:center">
+  <img src="https://img.shields.io/badge/Our%20projects-96DC5F?labelColor=95BD20&style=for-the-badge&logo=curseforge&color=A6DBF8" alt="Our projects">
+</div>
 <img src="https://www.bisecthosting.com/images/CF/MCKingdoms/BH_MC_BANNER1.webp" alt=" ">
 X
 <img src="https://www.bisecthosting.com/images/CF/MCKingdoms/BH_MC_BANNER3.webp" alt=" ">
