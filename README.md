@@ -1,6 +1,6 @@
 <img src="https://www.bisecthosting.com/images/CF/MCKingdoms/BH_MC_HEADER.webp" alt=" ">‎ 
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 100px;">
   <img src="https://img.shields.io/badge/Our%20projects-96DC5F?labelColor=95BD20&style=for-the-badge&logo=curseforge&color=A6DBF8" alt="Our projects">
   <img src="https://img.shields.io/badge/Rent%20a%20server-A6DBF8?labelColor=95BD20&style=for-the-badge&logo=bisecthosting&logoColor=0D1129&color=A6DBF8" alt="Rent a server">
   <a href="https://discord.gg/JyURxyJFxZ"><img src="https://img.shields.io/discord/920716981303377952?style=for-the-badge&logo=discord&labelColor=95BD20&color=A6DBF8" alt="Discord"></a>
