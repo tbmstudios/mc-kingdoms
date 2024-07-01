@@ -1,9 +1,8 @@
 <img src="https://www.bisecthosting.com/images/CF/MCKingdoms/BH_MC_HEADER.webp" alt=" ">‎ 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-    ![](https://img.shields.io/badge/Our%20projects-96DC5F?labelColor=95BD20&style=for-the-badge&logo=curseforge&color=A6DBF8)
-    <!-- Fügen Sie hier die anderen Badges hinzu -->
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Our%20projects-96DC5F?labelColor=95BD20&style=for-the-badge&logo=curseforge&color=A6DBF8" alt="Our projects">
+</p>
 
 <img src="https://www.bisecthosting.com/images/CF/MCKingdoms/BH_MC_BANNER1.webp" alt=" ">
 X
