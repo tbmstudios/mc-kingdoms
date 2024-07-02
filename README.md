@@ -1,7 +1,7 @@
 <img src="https://www.bisecthosting.com/images/CF/MCKingdoms/BH_MC_HEADER.webp" alt=" ">‎ 
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  Alex's Mobs | Create | Isle of Berk | MineColonies | Mowzie's Mobs | Simple Voice Chat
+  X | X | X | X | X | X
 </p>
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
