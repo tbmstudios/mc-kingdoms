@@ -1,8 +1,8 @@
 <img src="https://www.bisecthosting.com/images/CF/MCKingdoms/BH_MC_HEADER.webp" alt=" ">‎ 
 
-<div style="text-align: center; font-size: 18px; font-weight: bold; margin: 20px 0;">
+<p style="text-align: center; font-size: 18px; font-weight: bold; margin: 20px 0;">
   Alex's Mobs | Create | Isle of Berk │ MineColonies | Mowzie's Mobs │ Simple Voice Chat
-</div>
+</p>
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Our%20projects-96DC5F?labelColor=95BD20&style=for-the-badge&logo=curseforge&color=A6DBF8" alt="Our projects">
