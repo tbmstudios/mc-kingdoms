@@ -12,7 +12,7 @@ body:
       label: Prerequisites
       description: Please confirm the following before proceeding
       options:
-        - label: I am using the latest version of the modpack
+        - label: I am using the latest version of the project
           required: true
         - label: I have checked that this feature request hasn't been suggested before
           required: true
