@@ -79,7 +79,7 @@
   "villagerChatAIIncludeSessionInformation": false,
   "inworldAIToken": "",
   "inworldAIResourceNames": {},
-  "enableOnlineTTS": false,
+  "enableOnlineTTS": true,
   "villagerTTSServer": "http://api.rk.conczin.net/",
   "guardSpawnFraction": 0.175,
   "taxesFactor": 0.5,
