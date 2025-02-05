@@ -10,5 +10,8 @@ ServerEvents.recipes(event => {
     //Mutant Monsters
     event.remove({ output: 'mutantmonsters:creeper_minion_tracker' }) // [C]
 
+    //Vampirism
+    event.remove({ output: 'vampirism:fire_place' }) // [G]
+
     console.log('Hello! The recipe event has fired!')
 })

@@ -1,7 +1,7 @@
 
 [General]
 	#Gives you the crimson wiki book at start
-	CRIMSON_WIKI_ENABLED = true
+	CRIMSON_WIKI_ENABLED = false
 	#Prey like animals flee from predator like animals
 	PREY_FEAR_ENABLED = true
 	#Stuns charging animals when targeting the player with the new enchantment, 'Final Stand'
@@ -40,6 +40,8 @@
 	[Mobs.Anaconda]
 		#Large Anacondas will rarely cannibalize on anacondas when 10% health or babies
 		ANACONDA_CANNIBALIZE_ENABLED = true
+		#Large Anacondas abandon their babies
+		ORPHANED_ANACONDAS_ENABLED = true
 
 	[Mobs."Bald Eagle"]
 		#Bald Eagle will rarely cannibalize weaker eagles
@@ -218,6 +220,8 @@
 	[Mobs.Rattlesnake]
 		#Rattlesnake will cannibalize on weaker snakes
 		RATTLESNAKE_CANNIBALIZE_ENABLED = true
+		#Rattlesnakes are territorial against other snakes
+		RATTLESNAKE_TERRITORIAL_ENABLED = true
 
 	[Mobs.Rhino]
 		#Adult rhinos will rarely accidentally attack baby rhinos
@@ -293,8 +297,6 @@
 		TUSKLIN_FLEE_ENABLED = true
 		#Tusklins can have a lasting trust with mushroom stew,attacking it will remove that lasting trust however
 		TUSKLIN_TRUST_ENABLED = true
-		#Tusklins can trample when ridden
-		TUSKLIN_TRAMPLE_ENABLED = true
 		#Tusklin struck by lightning will be converted to zoglins
 		TUSKLIN_STRUCK_ENABLED = true
 
